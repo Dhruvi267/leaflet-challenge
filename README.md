@@ -91,7 +91,7 @@ leaflet-challenge/
 - Responsive design with viewport units
 
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Leaflet.js for mapping capabilities
 - USGS for earthquake data feeds
